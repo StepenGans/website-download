@@ -1,0 +1,17 @@
+kontol {
+  background: none;
+  border: none;
+  color: #f4f7ff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  left: 50%;
+  outline: none;
+  padding: 0 10px;
+  position: auto;
+  top: 50%;
+  width: 190px;
+  -webkit-tap-highlight-color: transparent;
+  z-index: 1;
+}
